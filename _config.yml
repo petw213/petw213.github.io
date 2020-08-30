@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Reversing study"
+title                    : "리버싱 공부방"
 title_separator          : "-"
-subtitle                 : "Reverse engineering and Pwnable"# site tagline that appears below site title in masthead
+subtitle                 : "Reverse engineering and Pwnable" # site tagline that appears below site title in masthead
 name                     : "Hyeseung Moon"
 description              : "Working on Progress"
 url                      : "petw213.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -96,15 +96,15 @@ author:
   name             : "Hyeseung Moon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student"
-  location         : "Somewhere in Korea"
+  location         : "Ulsan, Chungun Highschool"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://petw213.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/petw213"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
